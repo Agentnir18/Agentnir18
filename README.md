@@ -2,7 +2,7 @@
 
 **`Junior Developer/Graphics Designer`**
 
-I'm a junior developer and does grphic design as a hobby. All coding projects are built as my personal portfolio, for solving real-life problems with code.
+I'm a junior developer and does graphic design as a hobby. All coding projects are built as my personal portfolio, for solving real-life problems with code.
    
 ### 🧰 Languages and Frameworks I know
 

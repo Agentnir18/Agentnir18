@@ -1,4 +1,4 @@
-## Nirvan Bajracharya(aka Agentnir18) 👋
+## Nirvan Bajracharya (aka Agentnir18) 👋
 
 **`Frontend Developer/Graphics Designer`**
 
